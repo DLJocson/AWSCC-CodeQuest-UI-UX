@@ -10,7 +10,7 @@ Ever notice how some apps just look sleek and enticing? That's UI at work—the 
 
 ### **User Experience[UX]**
 
-Now, **UX** is the complete experience of a user after using the product. It cares about how easy it is to navigate the app, whether buttons make sense, and if the overall experience makes you happy. And answers the ff. questioons:
+Now, **UX** is the complete experience of a user after using the product. It cares about how easy it is to navigate the app, whether buttons make sense, and if the overall experience makes you happy. And answers the ff. questions:
 
     - Who they are designing for?
     - What are the users’ needs that must be fulfilled?
